@@ -12,7 +12,7 @@ function Remove-Accents {
 }
 
 # Chemin relatif ou absolu vers le dossier parent
-$parentFolderPath = "C:\Users\Pierre\OneDrive - JL SYSTEMS\Documents\Perso\Data"
+$parentFolderPath = "C:\Users\Toto\Data"
 
 # Fonction pour renommer fichiers et dossiers récursivement
 function Rename-Recursively {
