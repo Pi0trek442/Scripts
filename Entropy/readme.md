@@ -1,7 +1,7 @@
 ## Formule d'entropie d'un mot de passe
 
 **Entropie (en bits)** :  
-\[ \text{Entropie} = L \cdot \log_2(N) \]
+Entropie (bits)=L⋅log 2 ​ (N)
 
 - **L** : longueur du mot de passe  
 - **N** : taille de l’alphabet utilisé :
@@ -15,10 +15,13 @@
 
 ---
 
-### Exemple
+## Correspondance entre bits d'entropie et nombre de possibilités
 
-Mot de passe de **10 caractères**, utilisant **lettres majuscules/minuscules + chiffres** :
-
-\[
-\text{Entropie} = 10 \cdot \log_2(62) \approx 10 \cdot 5.95 = 59.5 \text{ bits}
-\]
+| Entropie (bits) | Nombre de possibilités        |
+|------------------|-------------------------------|
+| 1 bit            | 2 possibilités                |
+| 2 bits           | 4 possibilités                |
+| 3 bits           | 8 possibilités                |
+| 4 bits           | 16 possibilités               |
+| 20 bits          | ≈ 1 million de possibilités   |
+| 40 bits          | > 1 000 milliards de possibilités |
