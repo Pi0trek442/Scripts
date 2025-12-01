@@ -1,0 +1,11 @@
+REM Script BadUSB - YouTube chats en plein écran
+REM Sensibilisation verrouillage de poste
+DELAY 500
+GUI r
+DELAY 300
+STRING https://youtu.be/3URtTIdnXIk
+ENTER
+DELAY 3000
+STRING f
+DELAY 500
+STRING m
