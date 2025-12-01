@@ -1,4 +1,4 @@
-On place le script dans `~/scriptskiosk.sh`
+On place le script dans `~/scripts/kiosk.sh`
 
 Mise à jour du Rpi 4 - 8GB ici :
 
