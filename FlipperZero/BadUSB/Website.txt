@@ -1,0 +1,9 @@
+REM Script BadUSB - Ouverture Site
+REM Sensibilisation verrouillage de poste
+DELAY 500
+GUI r
+DELAY 300
+STRING https://perdu.com
+ENTER
+DELAY 2000
+F11
